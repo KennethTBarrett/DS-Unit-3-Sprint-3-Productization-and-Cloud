@@ -1,3 +1,7 @@
+Link to the project repo mentioned:
+
+[Kenneth T Barrett's Twitoff app for Lambda School's Data Science Program](https://github.com/KennethTBarrett/lsds12_twitoff)
+
 ## Module 1
 Today's module went very well; did bare basic setup for a Flask app using python, and everything so far has been very straightforward.
 

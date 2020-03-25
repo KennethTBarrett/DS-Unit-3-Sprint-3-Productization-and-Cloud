@@ -13,6 +13,8 @@ Today's module wasn't as good simply because I am yet to receive Twitter API acc
 Also, I do have some experience working with APIs, and I've always found them fun to work with. Outside of waiting for API access, so far, this sprint (and entire unit really) has been very straightforward for me. It does help to have a more solid understanding of how websites work, plus this unit has been a blast for me.
 
 ## Module 3
-I have API access now, and was able to confirm that my comprehension was as strong as I thought. In terms of difficulties, I'm finding that this sprint, my main challenge hasn't been coding, but getting things to look decent. I'm finding it somewhat difficult to be swapping between HTML/CSS and Python. However, I'm brainstorming ways to kind of have an 'on-off' switch for them.
+I have API access now, and was able to confirm that my comprehension was as strong as I thought. In terms of difficulties, I'm finding that this sprint, my main challenge hasn't been coding, but getting things to look decent from a frontend visual perspective.
+
+Furthermore, I'm finding it somewhat difficult to be swapping between HTML/CSS and Python. However, I'm brainstorming ways to kind of have an 'on-off' switch for them mentally.
 
 It was really cool to start working on model implementation in this module. I've gone ahead relatively far with making the design look solid.

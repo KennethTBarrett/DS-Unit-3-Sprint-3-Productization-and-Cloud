@@ -18,3 +18,9 @@ I have API access now, and was able to confirm that my comprehension was as stro
 Furthermore, I'm finding it somewhat difficult to be swapping between HTML/CSS and Python. However, I'm brainstorming ways to kind of have an 'on-off' switch for them mentally.
 
 It was really cool to start working on model implementation in this module. I've gone ahead relatively far with making the design look solid.
+
+
+## Module 4
+This sprint is now complete! Today gave me only one real issue in debugging - I had irresponsibly copy-pasted my API credentials into the Heroku configs. I knew there was a problem when it was attempting to format the data it fetched to print and was unable to - returned with a NoneType error, which gave me a huge pointer in the right direction.
+
+Really, this sprint and entire unit have been an absolute blast. I thoroughly enjoyed learning the process of actually deploying the web app I created!
